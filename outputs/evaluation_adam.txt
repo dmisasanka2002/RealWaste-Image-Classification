@@ -1,0 +1,22 @@
+Test accuracy: 0.5680
+Test loss: 1.2198
+Macro precision: 0.5727
+Macro recall: 0.5727
+
+Classification report:
+                     precision    recall  f1-score   support
+
+          Cardboard     0.6429    0.5217    0.5760        69
+      Food Organics     0.6441    0.6129    0.6281        62
+              Glass     0.6761    0.7619    0.7164        63
+              Metal     0.5241    0.6441    0.5779       118
+Miscellaneous Trash     0.3765    0.4267    0.4000        75
+              Paper     0.7407    0.5333    0.6202        75
+            Plastic     0.5794    0.4493    0.5061       138
+      Textile Trash     0.3333    0.3125    0.3226        48
+         Vegetation     0.6374    0.8923    0.7436        65
+
+           accuracy                         0.5680       713
+          macro avg     0.5727    0.5727    0.5657       713
+       weighted avg     0.5749    0.5680    0.5641       713
+

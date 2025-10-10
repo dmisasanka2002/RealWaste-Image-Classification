@@ -11,3 +11,5 @@ wheels/
 
 
 data
+*.h5
+*.npz

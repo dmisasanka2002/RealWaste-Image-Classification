@@ -1,0 +1,4 @@
+Optimizer comparison results (test accuracy):
+Adam: 0.5512
+SGD: 0.5666
+SGD+Momentum: 0.6073
